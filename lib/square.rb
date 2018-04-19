@@ -1,4 +1,4 @@
-def next_number(input)
+def square(input)
     output = 0
       output = input*input
   
@@ -6,4 +6,4 @@ def next_number(input)
   end
   
   
-  puts next_number(20)
+  puts square(20)

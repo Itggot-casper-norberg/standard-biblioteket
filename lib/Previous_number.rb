@@ -1,4 +1,4 @@
-def next_number(input)
+def previous_number(input)
     output = 0
       output = input - 1
   
@@ -6,4 +6,4 @@ def next_number(input)
   end
   
   
-  puts next_number(4)
+  puts previous_number(4)
